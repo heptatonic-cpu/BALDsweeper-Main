@@ -2,7 +2,7 @@
 using System;
 using UnityEngine;
 
-namespace BALDsweeper
+namespace BALDsweeper.Internal
 {
 	
 	public class GridCell : MonoBehaviour

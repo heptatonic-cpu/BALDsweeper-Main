@@ -5,7 +5,7 @@ using MTM101BaldAPI.UI;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace BALDsweeper
+namespace BALDsweeper.Patches
 {
 	[HarmonyPatch]
 	public class Patch

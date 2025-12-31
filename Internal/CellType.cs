@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace BALDsweeper
+namespace BALDsweeper.Internal
 {
 	/// <summary>
 	/// Description of CellType.

@@ -7,7 +7,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace BALDsweeper
+namespace BALDsweeper.Internal
 {
 	// i lost this script so i decompiled it to dnspy just to get it back //
 	public class MinesweeperManager : MonoBehaviour
